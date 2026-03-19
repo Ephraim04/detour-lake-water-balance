@@ -1,4 +1,4 @@
-# Detour Lake Mine — Preliminary Water Balance Assessment
+# Detour Lake Mine  Preliminary Water Balance Assessment
 
 **Author:** Isaiah Ephraim
 **Affiliation:** B.Eng Mining Engineering, Federal University of Technology, Akure, Nigeria
